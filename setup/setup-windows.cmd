@@ -2,4 +2,6 @@
 
 @winget install Rustlang.Rustup
 @winget install OpenJS.NodeJS.LTS
-@npm install
+
+@rustup update
+@npm install -l
